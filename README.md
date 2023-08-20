@@ -1,7 +1,7 @@
 # Nathalie Martines
 
 <img align="right" height="280"
-src="https://i.im.ge/2023/08/21/mwZDUf.WhatsApp-Image-2023-08-20-at-18-46-27-removebg-preview.png">
+src="[https://i.im.ge/2023/08/21/mwZDUf.WhatsApp-Image-2023-08-20-at-18-46-27-removebg-preview.png](https://i.im.ge/2023/08/21/mwZDUf.WhatsApp-Image-2023-08-20-at-18-46-27-removebg-preview.png)">
 
 <p align= "justify"> Full-stack Developer from Belém-PA, Brazil, Computer Science Student. I have an enthusiasm for everything involving technology and programming in particular. The beginning of everything (like my first "Hello, world!") was encouraged by my father (Senior Developer) and since then I've been following in his footsteps in this world of technology. 
 </p>
