@@ -19,7 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF69B4)
 
 ## Learning
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FF69B4)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF69B4)
 ![NodeJs](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=FF69B4)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=FF69B4)
