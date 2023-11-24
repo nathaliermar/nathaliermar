@@ -2,7 +2,7 @@
 
 <img align="right" height="260" src="https://github.com/Dougladmo/hDC-Agency/assets/100490271/b595ce1f-ff89-489b-a53e-f9154d90fa69">
 
-<p align= "justify"> Back-end Developer from Belém-PA, Brazil, Computer Science Student. I have an enthusiasm for everything involving technology and programming in particular. The beginning of everything (like my first "Hello, world!") was encouraged by my father (Senior Developer) and since then I've been following in his footsteps in this world of technology. 
+<p align= "justify"> Back-end Developer, Computer Science Student. I have an enthusiasm for everything involving technology and programming in particular. The beginning of everything (like my first "Hello, world!") was encouraged by my father (Senior Developer) and since then I've been following in his footsteps in this world of technology. 
 </p>
 
 ## Connect with me
