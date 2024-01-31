@@ -12,12 +12,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathaliermar&theme=transparent&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=FF69B4&title_color=FF69B4&text_color=FFF)
 
 ## Main Skills
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF69B4)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=FF69B4)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=FF69B4)
 ![CSS](https://img.shields.io/badge/CSS-000?&style=for-the-badge&logo=css3&logoColor=FF69B4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF69B4)
 
 ## Learning
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF69B4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF69B4)
 ![NodeJs](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=FF69B4)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=FF69B4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=FF69B4)
