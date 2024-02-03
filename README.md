@@ -4,7 +4,7 @@
 </p>
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](www.linkedin.com/in/nathalie-ribeiro-martines-48680b240)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](http://www.linkedin.com/in/nathalie-ribeiro-martines-48680b240)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:nathalieribmartines@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/nathalie.rmar/)
 
