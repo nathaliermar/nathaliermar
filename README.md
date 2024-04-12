@@ -1,6 +1,6 @@
 # Nathalie Martines
 
-<p align= "justify"> Back-end Developer, Computer Science Student. I have an enthusiasm for everything involving technology and programming in particular. The beginning of everything (like my first "Hello, world!") was encouraged by my father (Senior Developer) and since then I've been following in his footsteps in this world of technology. 
+<p align= "justify"> Back-end Developer, Computer Science Student. I have an enthusiasm for everything involving technology and programming in particular. The beginning of everything (like my first "Hello, world!") was encouraged by my father and since then I've been following in his footsteps in this world of technology. 
 </p>
 
 ## Connect with me
