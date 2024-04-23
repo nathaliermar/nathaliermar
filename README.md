@@ -14,7 +14,6 @@
 
 ## Stacks
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF69B4)
-![Spring Boot](https://img.shields.io/badge/Springboot-000?style=for-the-badge&logo=springboot&logoColor=FF69B4)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=FF69B4)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=FF69B4)
 ![CSS](https://img.shields.io/badge/CSS-000?&style=for-the-badge&logo=css3&logoColor=FF69B4)
