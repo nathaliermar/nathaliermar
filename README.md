@@ -6,7 +6,7 @@
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF69B4)](http://www.linkedin.com/in/nathalie-ribeiro-martines-48680b240)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:nathalieribmartines@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/nathalie.rmartines/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF69B4)](https://www.instagram.com/nathaliermartines/)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathaliermar&theme=transparent&bg_color=000&border_color=FF69B4&show_icons=true&icon_color=FF69B4&title_color=FF69B4&text_color=FFF)
