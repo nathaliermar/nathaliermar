@@ -1,6 +1,6 @@
 # Nathalie Ribeiro Martines
 
-<p align= "justify"> Back-end Developer, Computer Science Student. 
+<p align= "justify"> Back-end Developer and Full-stack scope involving Java/Spring Boot, Node.js and Angular frontend.
 </p>
 
 ## Connect with me
